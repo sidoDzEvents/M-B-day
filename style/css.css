@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:66a286ae37f391df13e74b4f65e9a7bad11db59475b8a65d3db5fdeb911b8c01
-size 168
+
+.container{
+    background-color: black;
+}
+.container>video{
+    width:100%;
+    height:100%;
+    
+}
+.body{
+    background-color: black;
+    margin:auto;
+}
